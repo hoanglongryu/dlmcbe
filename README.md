@@ -1,4 +1,4 @@
-# Download Minecraft Bedrock Free
+# Download Minecraft Bedrock Edition Free
 Minecraft v1.20.81
 [Download](https://mcpe-planet.com/wp-content/uploads/2024/04/minecraft-1-20-81.apk)
 #
@@ -7,9 +7,9 @@ Minecraft v1.20.81
 myGamerTag: longryu07
 
 # How to install for Android
-B1:![](./img/442676328_2694620497379999_7550823698451122792_n.jpg)
-B2:![](./img/441216190_435651719252502_3460011308519462534_n.jpg)
-B3:![](./img/442466060_2348045512065365_8506615094443371572_n.jpg)
+B1:Bấm vào 3 chấm![](./img/442676328_2694620497379999_7550823698451122792_n.jpg)
+B2:Vào mục tải xuống![](./img/441216190_435651719252502_3460011308519462534_n.jpg)
+B3:Bấm vào tập để cài đặt![](./img/442466060_2348045512065365_8506615094443371572_n.jpg)
 
 ## Link source
 [mcpe-planet.com](https://mcpe-planet.com/)
