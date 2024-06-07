@@ -1,5 +1,5 @@
 # Download Minecraft Bedrock Edition Free
-Minecraft v1.20.81
+Minecraft v1.20.81(32bit)
 [Download](https://mcpe-planet.com/wp-content/uploads/2024/04/minecraft-1-20-81-xbox-servers.apk)
 #
 <img style="width: 10%; height: 10%;" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW4ESm?ver=c63e" alt="logoXbox">
