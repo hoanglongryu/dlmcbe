@@ -1,7 +1,7 @@
 # Download Minecraft Bedrock Edition Free
-Minecraft v1.21.0(32bit:full)
+### Minecraft v1.21.0(32bit:full)
 [Download](https://mcpe-planet.com/wp-content/uploads/2024/06/minecraft-1-21-0-music.apk)
-Minecraft v1.21.0(32bit:reduce)
+### Minecraft v1.21.0(32bit:reduce)
 [Download](https://mcpe-planet.com/wp-content/uploads/2024/06/minecraft-1-21-0.apk)
 #
 <img style="width: 10%; height: 10%;" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW4ESm?ver=c63e" alt="logoXbox">
