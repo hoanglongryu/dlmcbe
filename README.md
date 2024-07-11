@@ -15,3 +15,6 @@ B3:Bấm vào têp để cài đặt![](./img/442466060_2348045512065365_8506615
 
 ## Link source
 [mcpe-planet.com](https://mcpe-planet.com/)
+
+## You use Windows 10 or 11
+Download Minecraft license file for Windows
