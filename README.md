@@ -18,3 +18,4 @@ B3:Bấm vào têp để cài đặt![](./img/442466060_2348045512065365_8506615
 
 ## You use Windows 10 or 11
 Download Minecraft license file for Windows
+[Click here](https://github.com/hoanglongryu/dlmcbe/tree/main/unlock_MCBE)
